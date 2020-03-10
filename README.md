@@ -2,6 +2,7 @@
 
 # [Live Link] (https://uoft-workout-tracker.herokuapp.com/)
 
+![](screenShot.PNG)
 
 ## About
 
