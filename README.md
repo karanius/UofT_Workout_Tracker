@@ -2,7 +2,8 @@
 
 # [Live Link] (https://uoft-workout-tracker.herokuapp.com/)
 
-![](screenShot.PNG)
+
+![](screenShot2.gif)
 
 ## About
 
@@ -14,6 +15,8 @@ For this assignment, you'll create a workout tracker. You have already been prov
 1. [User Story](#user-story)
 1. [Business Context](#custom-design-and-demo)
 1. [Requirements](#development-strategy)
+
+![](screenShot.PNG)
 
 ## User Story
 
